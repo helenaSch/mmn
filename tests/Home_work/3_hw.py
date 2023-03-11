@@ -8,8 +8,8 @@ else:
     print(b)
 
 
-d=500
-c=365
+d = 500
+c = 365
 def task_2(d, c):
     return 
 if d - c == 135 or c - d == 135:
